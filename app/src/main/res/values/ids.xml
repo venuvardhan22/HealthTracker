@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ageEditText" type="id" />
+    <item name="heightEditText" type="id" />
+    <item name="weightEditText" type="id" />
+    <item name="genderRadioGroup" type="id" />
+    <item name="calculateButton" type="id" />
+    <item name="stopButton" type="id" />
+    <item name="timerTextView" type="id" />
+    <item name="sleepTextView" type="id" />
+    <item name="startButton" type="id" />
+    <item name="sleepTimeTextView" type="id" />
+    <item name="maleRadioButton" type="id" />
+    <item name="femaleRadioButton" type="id" />
+    <item name="statusTextView" type="id" />
+    <item name="ageTextView" type="id" />
+    <item name="genderTextView" type="id" />
+    <item name="interpretationTextView" type="id" />
+    <item name="bmiValueTextView" type="id" />
+    <item name="bmiCategoryTextView" type="id" />
+    <item name="resultTextView" type="id" />
+    <item name="resultLabelTextView" type="id" />
+    <item name="durationEditText" type="id" />
+    <item name="runCheckBox" type="id" />
+    <item name="bikeCheckBox" type="id" />
+    <item name="swimCheckBox" type="id" />
+    <item name="cycleCheckBox" type="id" />
+    <item name="minutesEditText" type="id" />
+    <item name="hoursEditText" type="id" />
+    <item name="optimalSleepTextView" type="id" />
+    <item name="averageSleepTextView" type="id" />
+    <item name="sleepTimeSuggestionTextView" type="id" />
+</resources>

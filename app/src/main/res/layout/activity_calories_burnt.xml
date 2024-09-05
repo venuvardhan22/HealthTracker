@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".CaloriesBurntActivity">
+
+    <TextView
+        android:id="@+id/exerciseTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Exercise"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/exerciseEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:hint="Enter time spent in units" />
+
+    <TextView
+        android:id="@+id/sleepingTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sleeping"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/sleepingEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:hint="Enter time spent in units" />
+
+    <TextView
+        android:id="@+id/walkingTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Walking"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/walkingEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:hint="Enter time spent in units" />
+
+    <TextView
+        android:id="@+id/mobileTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mobile"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/mobileEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:hint="Enter time spent in units" />
+
+    <TextView
+        android:id="@+id/othersTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Others"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/othersEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:hint="Enter time spent in units" />
+
+    <Button
+        android:id="@+id/calculateButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Calculate" />
+
+    <TextView
+        android:id="@+id/resultTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+</LinearLayout>

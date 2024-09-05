@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800737880962",
+    "project_id": "healthtracker-6a14d",
+    "storage_bucket": "healthtracker-6a14d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800737880962:android:093e64ac9c471a94ce7d9b",
+        "android_client_info": {
+          "package_name": "com.example.healthtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800737880962-8k67lga8ej0hdovs2v73c1vrrtlisn2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkmz-BdNUNI5hYX65TIicXXeV_56YoIq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800737880962-8k67lga8ej0hdovs2v73c1vrrtlisn2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

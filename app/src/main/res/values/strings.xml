@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Health Tracker</string>
+    <string name="start_sleeping" />
+    <string name="stop_sleeping" />
+    <string name="tips_title" />
+    <string name="age_hint" />
+    <string name="sleep_instructions" />
+    <string name="sleep_hours_hint" />
+    <string name="calculate_button_label" />
+</resources>
